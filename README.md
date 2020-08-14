@@ -12,6 +12,7 @@
 - 🤔 I’m looking for help with ... finding new opportunities to work on AI, ML, DL, CV, NLP projects.
 - 💬 Ask me about ... anything related to ML & DL algorithms & back-end development using python
 - 📫 How to reach me: ... [LinkedIn Account](https://www.linkedin.com/in/omar-boufeloussen-24222515b/)
+- 📚 My first article on medium: ... [Medium](https://medium.com/swlh/sentiment-analysis-from-scratch-with-logistic-regression-ca6f119256ab)
 
 
 
