@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 About me: ... My name is omar boufeloussen, i am a machine learning engineer  | Passionate about AI, ML, DL | Enthusiastic learner. i love the process of collecting , cleansing and analyzing data. my focus is to use data to design, develop machine learning models and use my software skills to deploy those models into production to solve a business problem or automate a process .
+- 😄 About me: ... My name is omar boufeloussen, i am a machine learning engineer  | Passionate about AI, ML, DL | Enthusiastic learner.     i love the process of collecting , cleansing and analyzing data. my focus is to use data to design, develop machine learning models and use my software skills to deploy those models into production to solve a business problem or automate a process .
 
 - 🔭 I’m currently working on ... Machine & deep learning project
 - 🌱 I’m currently learning ... NLP & Angular
